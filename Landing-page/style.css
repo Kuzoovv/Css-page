@@ -91,9 +91,13 @@
 .item {
     width: 150px;
     text-align: center;
+    
 }
 
 .item img {
     width: 150px;
     height: 150px;
+    border: solid rgb(27, 103, 243) 3px ;
+    border-radius: 10px;
 }
+
