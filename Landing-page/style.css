@@ -101,3 +101,28 @@
     border-radius: 10px;
 }
 
+.text {
+    background-color: rgb(242, 247, 246);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 70px;
+}
+
+.inspiration {
+    text-align: center;
+    width: 500px;
+    font-size: 30px;
+}
+
+.thor {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+    width: 1400px;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
